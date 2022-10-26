@@ -2,13 +2,13 @@
 
  ## Autores: 
   
-- Byron Giovanny Cholca
+- Byron Giovanny Cholca C.
 
-- Jorge Daniel Leiva
+- Jorge Daniel Leiva P.
 
 # ¿Como instalar Eclipse Modeling Framework?
 
-Se debe instalar el **IDE Eclipse**.
+Instalar el **IDE Eclipse**.
 Antes de instalar los paquetes, guardar los cambios y cerra todos los proyector abiertos en el **IDE**, ya que la finalizar se va a solicitar reiniciar el **IDE**
 
 Dento del **IDE** se debe realizar los siguientes pasos:
